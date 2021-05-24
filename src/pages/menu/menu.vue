@@ -45,6 +45,7 @@ export default {
   },
   mounted() {
     this.init();
+    console.log("hahah ");
   },
   methods: {
     ...mapActions({}),
